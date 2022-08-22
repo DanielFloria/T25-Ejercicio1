@@ -1,5 +1,5 @@
 # T25-Ejercicio1
-
+## Articulos
 ### GET: Mostrar Todos
 localhost:8181/api/articulos
 
@@ -16,7 +16,7 @@ localhost:8181/api/articulos/{id}
 localhost:8181/api/articulos/{id}
 
 
-
+##Fabricantes
 ### GET: Mostrar Todos
 localhost:8181/api/fabricantes
 
