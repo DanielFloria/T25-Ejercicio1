@@ -16,7 +16,7 @@ localhost:8181/api/articulos/{id}
 localhost:8181/api/articulos/{id}
 
 
-##Fabricantes
+## Fabricantes
 ### GET: Mostrar Todos
 localhost:8181/api/fabricantes
 
